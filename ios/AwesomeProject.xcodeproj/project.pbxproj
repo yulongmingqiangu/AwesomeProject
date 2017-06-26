@@ -572,7 +572,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
-						DevelopmentTeam = 4VF2P3RG2F;
+						DevelopmentTeam = F6TY36HW6Y;
 						ProvisioningStyle = Manual;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
@@ -1004,7 +1004,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Mihai Zhou (VZNYPC895M)";
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				DEVELOPMENT_TEAM = 4VF2P3RG2F;
+				DEVELOPMENT_TEAM = F6TY36HW6Y;
 				INFOPLIST_FILE = AwesomeProject/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1041,6 +1041,7 @@
 				PRODUCT_NAME = AwesomeProject;
 				PROVISIONING_PROFILE = "20ac5a12-b6e1-4801-86fb-e71b59fc003a";
 				PROVISIONING_PROFILE_SPECIFIER = "dis-AD-hot";
+				SDKROOT = iphoneos;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
